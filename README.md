@@ -1,6 +1,6 @@
 # Herramienta de Gestión de Máquinas Virtuales
 
-Este script de Bash proporciona una interfaz de línea de comandos (CLI) para interactuar con una base de datos de máquinas virtuales. La base de datos se accede mediante un archivo JavaScript llamado "bundle.js" que se encuentra en un servidor remoto. La herramienta es útil para realizar diversas operaciones, como búsqueda por nombre o dirección IP, obtención de enlaces de resolución en YouTube, y filtrado por dificultad, sistema operativo y habilidades.
+Este script de Bash proporciona una interfaz de línea de comandos (CLI) para interactuar con una base de datos de máquinas virtuales. La base de datos se accede mediante un archivo JavaScript llamado "bundle.js" que se encuentra en un servidor remoto. La herramienta es útil para realizar diversas operaciones, como búsqueda por nombre o dirección IP, obtención de enlaces de resolución en YouTube del canal de S4vitar, y filtrado por dificultad, sistema operativo y habilidades.
 
 ## Características Principales
 
